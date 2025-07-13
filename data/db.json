@@ -1,0 +1,54 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-21",
+      "note": "my favouritte city so far!",
+      "position": {
+        "lat": 38.7223,
+        "lng": -9.1393
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-7-25",
+      "note": "Lovely",
+      "position": {
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "id": "56748932"
+    },
+    {
+      "id": "83ee",
+      "cityName": "La Condamine-Chatelard",
+      "country": "France",
+      "state": "Provence-Alpes-Cote d'Azur",
+      "emoji": "🇫🇷",
+      "date": "2025-07-09T22:47:36.950Z",
+      "notes": "france was amazing",
+      "position": {
+        "lat": 44.47050104646926,
+        "lng": 6.644202786213864
+      }
+    },
+    {
+      "id": "fa59",
+      "cityName": "Prados Redondos",
+      "country": "Spain",
+      "state": "Castilla-La Mancha",
+      "emoji": "🇪🇸",
+      "date": "2025-07-12T19:23:15.867Z",
+      "notes": "lovelt city",
+      "position": {
+        "lat": 40.78635489121263,
+        "lng": -1.7927505305205018
+      }
+    }
+  ]
+}
